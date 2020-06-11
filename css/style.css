@@ -1,0 +1,13 @@
+
+.carousel-item-padding{
+    padding: 100px 250px;
+}
+.add-section{
+    color: white;
+}
+
+.add-section{
+    background-image: url("../../Day-7/img/moon-hill-natural-bridge-in-china.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
